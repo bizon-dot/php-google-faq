@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="css/style.css">
     </head>
 <body>
-
+<div class="container">
 <?php
 $faq = [
         [
@@ -121,5 +121,6 @@ foreach ($faq as $key => $value) {
 }
   
 ?>
+</div>
 </body>
 </html> 
