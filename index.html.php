@@ -99,9 +99,12 @@ $faq = [
         ],
 ];
 
-print_r($faq);
+foreach ($faq as $key => $value) {
+        foreach ($value as $key => $question) {
+               echo $question;
+        }
+}
   
 ?>
-
 </body>
 </html> 
