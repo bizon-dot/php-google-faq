@@ -1,5 +1,3 @@
 # php-google-faq
 
-Riscrivere questa pagina [google] (https://policies.google.com/faq).
-
-[GitHub](http://github.com)
+Riscrivere questa pagina [Google](https://policies.google.com/faq)
